@@ -7476,3 +7476,995 @@
 </Container>
 </Package>
 </Project>
+<Project name ="Arma 3 Creator DLC: Expeditionary Forces">
+<Package name ="EF_Patch_1_1">
+<Container name="EF_RC_Intro" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_RC_Intro_1_1">
+        <Original>When they told us the 29th MEU was getting deployed to Africa, we figured it was going to be a boring and uneventful rotation.</Original>
+        <English>When they told us the 29th MEU was getting deployed to Africa, we figured it was going to be a boring and uneventful rotation.</English>
+        <German>Als man uns sagte, dass das 29th MEU in Afrika stationiert werden sollte, rechneten alle mit einem langweiligen und ereignislosen Aufenthalt.</German>
+        <Spanish>Cuando nos dijeron que la 29.ª Unidad Expedicionaria de Marines se iba a desplegar en África, pensamos que sería una rotación aburrida y sin contratiempos.</Spanish>
+        <French>Quand ils nous ont dit que la 29e MEU partait pour l&apos;Afrique, je m&apos;attendais à un déploiement sans histoire.</French>
+        <Polish>Kiedy powiedziano nam, że 29. JEM zostanie wysłana do Afryki, pomyśleliśmy, że czeka nas nudna i monotonna rotacja.</Polish>
+        <Portuguese>Quando nos falaram que a 29ª UEFN seria enviada para a África, achamos que acabaria sendo só uma rotação entediante e sem incidentes.</Portuguese>
+        <Russian>Когда нам сказали, что 29-й ЭОМП отправляют в Африку, мы подумали, что ротация будет скучная и ничего не случится.</Russian>
+        <Chinesesimp>当得知海军陆战队第 29 远征部队（第 29 MEU）将被部署到非洲时，我们本以为这会是一次无聊且平淡无奇的轮换。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_2_1">
+        <Original>Spend half a year packed like sardines in a ship, do the occasional training exercise with indig forces,</Original>
+        <English>Spend half a year packed like sardines in a ship, do the occasional training exercise with indig forces,</English>
+        <German>Ein halbes Jahr auf einem Schiff, eingepfercht wie Sardinen, die ein oder andere Trainingsübung mit einheimischen Truppen,</German>
+        <Spanish>Nos pasamos seis meses en un barco, como sardinas en lata, haciendo ejercicios de adiestramiento ocasionales con fuerzas indígenas.</Spanish>
+        <French>On allait s&apos;entasser dans un bateau pendant six mois, entrecoupés d&apos;exercices avec les forces locales.</French>
+        <Polish>Pół roku na statku upakowani jak szprotki, wykonując okazjonalne ćwiczenia szkoleniowe z lokalnymi siłami,</Polish>
+        <Portuguese>Passaríamos meio ano apertados como sardinhas em um navio, fazendo exercícios ocasionais com forças nativas,</Portuguese>
+        <Russian>Полгода — как сардины в трюме корабля, пара учений с местными силами, может, пара стычек с</Russian>
+        <Chinesesimp>无非是一伙人在船上挤上个半年，就像沙丁鱼罐头一样，偶尔和本土部队一起进行训练演习，</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_2_2">
+        <Original>perhaps even have a stare-down with whatever CSAT garrison felt like showing up at the border that day.</Original>
+        <English>perhaps even have a stare-down with whatever CSAT garrison felt like showing up at the border that day.</English>
+        <German>vielleicht sogar ein paar böse Blicke in Richtung der CSAT-Garnisonen, die sich an der Grenze blicken lassen.</German>
+        <Spanish>Incluso tuvimos algún que otro encontronazo con el CSAT cuando a su guarnición le daba por aparecer por la frontera.</Spanish>
+        <French>Avec un peu de chance, on aurait droit à un accrochage avec une garnison du CSAT qui s&apos;approcherait trop de la frontière.</French>
+        <Polish>i złowrogie łypanie na jakiś przygodny garnizon CSAT, który akurat pofatygował się zjawić na granicy.</Polish>
+        <Portuguese>talvez até encarando alguma guarnição da CSAT que resolvesse aparecer pela fronteira naquele dia.</Portuguese>
+        <Russian>каким-нибудь гарнизоном CSAT, который в тот день решит появиться на границе.</Russian>
+        <Chinesesimp>最糟糕的情况无非是可能会与当天出现在边境的 CSAT 驻军对峙。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_3_1">
+        <Original>Then, we began hearing rumors about an island in the middle of the Mediterranean Sea where NATO troops were stationed.</Original>
+        <English>Then, we began hearing rumors about an island in the middle of the Mediterranean Sea where NATO troops were stationed.</English>
+        <German>Doch dann hörten wir Gerüchte über eine Insel im zentralen Mittelmeer, auf der NATO-Truppen stationiert sein sollten.</German>
+        <Spanish>Pero, luego, empezamos a oír rumores sobre una isla en medio del Mediterráneo donde había tropas de la OTAN acuarteladas.</Spanish>
+        <French>Et puis une rumeur s&apos;est répandue au sujet d&apos;une île au beau milieu de la Méditerranée où sont stationnées des troupes de l&apos;OTAN.</French>
+        <Polish>Potem zaczęły krążyć plotki o wyspie pośrodku Morza Śródziemnego, na której stacjonowały wojska NATO.</Polish>
+        <Portuguese>Mas daí começaram a circular rumores sobre uma ilha no meio do Mar Mediterrâneo onde tropas da OTAN estavam posicionadas.</Portuguese>
+        <Russian>Потом пошли слухи про остров посреди Средиземного моря, где стояли войска НАТО.</Russian>
+        <Chinesesimp>后来，我们听说了关于某个地中海中部岛屿的传闻，那里驻扎着 NATO 部队。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_3_2">
+        <Original>Apparently, it had gone completely silent – they seemed to be totally cut off from the outside world.</Original>
+        <English>Apparently, it had gone completely silent – they seemed to be totally cut off from the outside world.</English>
+        <German>Offenbar war der Kontakt zu ihnen vollständig abgebrochen und sie schienen von der Außenwelt abgeschnitten zu sein.</German>
+        <Spanish>Al parecer no respondían, se habían quedado incomunicadas por completo del mundo exterior.</Spanish>
+        <French>Visiblement, elles ne répondaient plus. L&apos;île était coupée du reste du monde.</French>
+        <Polish>Najwyraźniej zapadła tam głucha cisza – jakby ktoś całkowicie odciął ich od świata zewnętrznego.</Polish>
+        <Portuguese>Aparentemente, eles tinham ficado completamente em silêncio, pareciam totalmente isolados do mundo exterior.</Portuguese>
+        <Russian>Говорили, что он внезапно замолчал — будто полностью отрезан от внешнего мира.</Russian>
+        <Chinesesimp>这岛屿已经是一片死寂——就好像与整个外部世界切断了联系。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_4_1">
+        <Original>At first, we thought it was just some underwater communications cable that got severed, no big deal.</Original>
+        <English>At first, we thought it was just some underwater communications cable that got severed, no big deal.</English>
+        <German>Zunächst gingen wir von einem durchtrennten Unterwasserkabel aus – halb so wild.</German>
+        <Spanish>Al principio, creímos que se rompería algún cable de comunicaciones submarino, nada de lo que preocuparse.</Spanish>
+        <French>On a d&apos;abord cru qu&apos;un câble sous-marin avait été sectionné, un truc comme ça.</French>
+        <Polish>Z początku sądziliśmy, że to małe miki i ktoś przerwał podmorski kabel komunikacyjny.</Polish>
+        <Portuguese>No começo, pensamos que fosse apenas algum cabo de comunicação submarino rompido, nada demais.</Portuguese>
+        <Russian>Сначала списали на оборванный подводный кабель, ничего серьезного.</Russian>
+        <Chinesesimp>一开始，我们以为这不过是有海底通信电缆被切断了，不算什么大问题。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_4_2">
+        <Original>Then, we realized our satellites and radars were actively being jammed, and things changed drastically.</Original>
+        <English>Then, we realized our satellites and radars were actively being jammed, and things changed drastically.</English>
+        <German>Doch dann stellten wir fest, dass unsere Satelliten und unser Radar aktiv gestört wurden, was die Lage drastisch veränderte.</German>
+        <Spanish>Pero, después, nos dimos cuenta de que nuestros satélites y radares sufrían interferencias activas; y las cosas cambiaron drásticamente.</Spanish>
+        <French>Et puis on a réalisé que quelqu&apos;un brouillait nos satellites et nos radars, et ça a tout changé.</French>
+        <Polish>Wkrótce jednak dotarło do nas, że nasze satelity oraz radary są aktywnie zagłuszane i sprawy miały się cokolwiek gorzej.</Polish>
+        <Portuguese>Mas logo percebemos que nossos satélites e radares estavam sendo ativamente bloqueados, e tudo mudou drasticamente.</Portuguese>
+        <Russian>Потом выяснилось, что наши спутники и радары активно глушат, и всё резко поменялось.</Russian>
+        <Chinesesimp>后来，我们意识到我们的通信卫星被频繁干扰，情况急转直下。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_4_3">
+        <Original>The entire peacekeeping contingent of Task Force Aegis was now considered MIA.</Original>
+        <English>The entire peacekeeping contingent of Task Force Aegis was now considered MIA.</English>
+        <German>Der gesamte Friedenssicherungstrupp von Task Force Aegis galt nun als vermisst.</German>
+        <Spanish>Se dio por desaparecido en combate a todo el contingente de paz del Grupo de Combate Aegis.</Spanish>
+        <French>Tout le contingent Aegis de maintien de la paix était considéré comme ayant disparu au combat.</French>
+        <Polish>Cały pokojowy kontyngent Sił Zadaniowych Aegis został uznany za zaginiony.</Polish>
+        <Portuguese>Todo o contingente de manutenção da paz da Força-tarefa Aegis foi considerado como perdido.</Portuguese>
+        <Russian>Весь миротворческий контингент оперативной группы «Иджис» стал числиться пропавшим без вести.</Russian>
+        <Chinesesimp>埃癸斯特遣部队的整个维和分队都不知所踪。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_5_1">
+        <Original>Most of us couldn&apos;t even point to Altis on a map, but the idea that anyone could sucker punch our brothers and sisters like that and get away with it ignited a fire inside us all.</Original>
+        <English>Most of us couldn&apos;t even point to Altis on a map, but the idea that anyone could sucker punch our brothers and sisters like that and get away with it ignited a fire inside us all.</English>
+        <German>Die meisten von uns hätten Altis nicht mal auf der Landkarte gefunden, aber die Vorstellung, dass irgendwer unseren Jungs und Mädels so einen Schlag versetzen und einfach damit durchkommen konnte, entfachte ein Feuer ins uns allen.</German>
+        <Spanish>La mayoría ni sabíamos señalar Altis en un mapa, pero la idea de que alguien les diese semejante golpe bajo a nuestros hermanos y hermanas y se fuese de rositas nos inflamó.</Spanish>
+        <French>Aucun d&apos;entre nous n&apos;aurait pu trouver Altis sur une carte, mais la simple idée que nos camarades aient pu se faire tuer sans sommation nous mettait tous hors de nous.</French>
+        <Polish>Większość z nas nie umiała nawet wskazać Altis palcem na mapie, ale myśl o tym, że ktokolwiek mógł tak bezkarnie uderzyć na naszych braci i siostry, przejęła nas do żywego.</Polish>
+        <Portuguese>A maioria de nós nem saberia apontar Altis num mapa, mas a ideia de que alguém pudesse atacar nossos irmãos e irmãs daquele jeito e sair impune despertou uma fúria profunda em todos nós.</Portuguese>
+        <Russian>Большинство из нас даже не могли показать Алтис на карте, но мысль о том, что кому-то удалось так подло ударить наших братьев и сестер и остаться безнаказанным, разожгла в нас ярость.</Russian>
+        <Chinesesimp>我们中的绝大多数人甚至无法在地图上指出阿尔蒂斯的位置，但一想到有人突袭了我们的战友但仍在逍遥法外，我们就压抑不住心中的怒火。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_5_2">
+        <Original>The only two things we could think about were saving whatever survivors we could find and making our enemies bleed.</Original>
+        <English>The only two things we could think about were saving whatever survivors we could find and making our enemies bleed.</English>
+        <German>Wir konnten nur an zwei Dinge denken: die Rettung möglicher Überlebender und blutige Vergeltung.</German>
+        <Spanish>Lo único que teníamos en mente era salvar a los supervivientes que quedasen y hacer sufrir al enemigo.</Spanish>
+        <French>On ne pensait plus qu&apos;à sauver d&apos;éventuels rescapés et à faire souffrir nos ennemis.</French>
+        <Polish>Po głowach kołatały nam tylko dwie rzeczy: ocalić naszych i sprawić, by wróg zapłacił krwią.</Polish>
+        <Portuguese>Só conseguíamos pensar em duas coisas: salvar os sobreviventes que encontrássemos e arrancar sangue dos nossos inimigos.</Portuguese>
+        <Russian>Единственное, о чем мы думали, — как спасти тех, кто остался в живых, и заставить врага поплатиться.</Russian>
+        <Chinesesimp>我们能想到的只有两件事：一是营救所有找到的幸存者，二是把敌人打得头破血流。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Intro_6_1">
+        <Original>Finally, after one month of sailing north off the coast of West Africa, on the evening of August 7th, the first group of Marines was ready to land, launching Operation Resolute Cyclone…</Original>
+        <English>Finally, after one month of sailing north off the coast of West Africa, on the evening of August 7th, the first group of Marines was ready to land, launching Operation Resolute Cyclone…</English>
+        <German>Nachdem wir einen Monat nördlich entlang der Küste Westafrikas gesegelt waren, war die erste Gruppe unserer Marines am Abend des 7. Augusts endlich bereit zur Landung. Operation Resolute Cyclone hatte begonnen …</German>
+        <Spanish>Al final, tras un mes de singladura hacia el norte desde las costas de África Occidental, en la tarde del 7 de agosto, el primer grupo de marines estaba listo para desembarcar y lanzar la Operación Resolute Cyclone...</Spanish>
+        <French>Enfin, le soir du 7 août après un mois passé en mer à longer le littoral ouest-africain, notre premier groupe de Marines s&apos;apprêtait à débarquer. C&apos;était le début de l&apos;opération Resolute Cyclone…</French>
+        <Polish>Wreszcie, po miesięcznej żegludze na północ od wybrzeży Afryki Zachodniej, wieczorem 7 sierpnia pierwsza grupa marines była gotowa do lądowania i rozpoczęcia operacji Resolute Cyclone…</Polish>
+        <Portuguese>Finalmente, após um mês navegando ao norte da costa da África Ocidental, na noite de 7 de agosto, o primeiro grupo de fuzileiros estava pronto para desembarcar, iniciando a Operação Resolute Cyclone…</Portuguese>
+        <Russian>Наконец, после месяца хода к северу от берегов Западной Африки, вечером 7 августа первая группа морских пехотинцев была готова к высадке — началась операция Resolute Cyclone…</Russian>
+        <Chinesesimp>最终，在非洲西部海岸往北航行一个月之后，海军陆战队的第一支部队准备在 8 月 7 日夜间登陆，并实施 Resolute Cyclone 行动……</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_RC_Outro" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_RC_Outro_1_1">
+        <Original>Resolute Cyclone was a resounding success.</Original>
+        <English>Resolute Cyclone was a resounding success.</English>
+        <German>Resolute Cyclone war ein voller Erfolg.</German>
+        <Spanish>La Operación Resolute Cyclone fue un éxito rotundo.</Spanish>
+        <French>Resolute Cyclone avait été une réussite de bout en bout.</French>
+        <Polish>Operacja Resolute Cyclone okazała się pełnym sukcesem.</Polish>
+        <Portuguese>Resolute Cyclone foi um grande sucesso.</Portuguese>
+        <Russian>Операция Resolute Cyclone прошла с оглушительным успехом.</Russian>
+        <Chinesesimp>Resolute Cyclone 行动取得了圆满成功。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_1_2">
+        <Original>In just twelve hours since the first Marine set foot on Altis, the entire western flank of the AAF had disintegrated, and a third of the island was firmly under NATO control.</Original>
+        <English>In just twelve hours since the first Marine set foot on Altis, the entire western flank of the AAF had disintegrated, and a third of the island was firmly under NATO control.</English>
+        <German>In nur zwölf Stunden, nachdem der erste Marine Altis betreten hatte, war die gesamte Westflanke der AAF aufgelöst und ein Drittel der Insel unter Kontrolle der NATO.</German>
+        <Spanish>Al cabo de tan solo doce horas desde que los primeros marines pusieron pie en Altis, todo el flanco oeste de la AAF se había desintegrado y un tercio de la isla estaba bajo férreo control de la OTAN.</Spanish>
+        <French>Douze heures seulement après le débarquement du premier Marine sur Altis, le flanc ouest de l&apos;AAF avait cédé et un tiers de l&apos;île passait sous le contrôle de l&apos;OTAN.</French>
+        <Polish>W ciągu zaledwie dwunastu godzin od chwili, gdy pierwsi żołnierze piechoty morskiej postawili stopę na Altis, cała zachodnia flanka AAF runęła jak domek z kart, a jedna trzecia wyspy trafiła pod kontrolę NATO.</Polish>
+        <Portuguese>Em meras doze horas desde o primeiro fuzileiro pisar em Altis, todo o flanco oeste da AAF foi desintegrado, e um terço da ilha já estava sob forte controle da OTAN.</Portuguese>
+        <Russian>Всего через двенадцать часов после высадки первых морпехов на Алтис весь западный фланг AAF развалился, и треть острова оказалась под надежным контролем НАТО.</Russian>
+        <Chinesesimp>在短短十二小时之内，海军陆战队的首批部队登陆阿尔蒂斯，AAF 的整个西翼瞬间土崩瓦解，随后 NATO 牢牢掌控了该岛屿三分之一的地盘。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_2_1">
+        <Original>Colonel McCreed, the commander of the MEU, described the landing as a textbook operation.</Original>
+        <English>Colonel McCreed, the commander of the MEU, described the landing as a textbook operation.</English>
+        <German>Colonel McCreed, Kommandant der MEU, beschrieb die Landung als einen „Einsatz wie aus dem Lehrbuch“.</German>
+        <Spanish>El coronel McCreed, comandante de la Unidad Expedicionaria de Marines, afirmó que la operación había sido de manual.</Spanish>
+        <French>Pour le Colonel McCreed, commandant de la MEU, l&apos;opération avait été une véritable démonstration.</French>
+        <Polish>Dowódca JEM, pułkownik McCreed, opisał lądowanie jako podręcznikowe.</Polish>
+        <Portuguese>O coronel McCreed, comandante da UEFN, descreveu o desembarque como uma operação exemplar.</Portuguese>
+        <Russian>Полковник Маккрид, командир ЭОМП, назвал высадку образцовой операцией.</Russian>
+        <Chinesesimp>MEU 的指挥官麦克里德上校表示，此次登陆堪称一次教科书式的行动。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_2_2">
+        <Original>The enemy forces were completely overwhelmed – when they realized what had happened, it was already too late.</Original>
+        <English>The enemy forces were completely overwhelmed – when they realized what had happened, it was already too late.</English>
+        <German>Die feindlichen Truppen wurden überrannt – und als sie erkannten, womit sie es zu tun hatten, war es schon zu spät.</German>
+        <Spanish>Las fuerzas enemigas se vieron completamente abrumadas: cuando se dieron cuenta de qué estaba pasando, ya era demasiado tarde.</Spanish>
+        <French>Les forces ennemies avaient aussitôt été submergées. Quand elles ont compris ce qui se passait, il était trop tard.</French>
+        <Polish>Siły wroga zostały całkowicie przytłoczone, a gdy zorientowały się wreszcie w sytuacji, było już za późno.</Polish>
+        <Portuguese>As forças inimigas foram completamente dominadas. Quando perceberam o que tinha acontecido, já era tarde demais.</Portuguese>
+        <Russian>Вражеские силы были полностью дезорганизованы — когда они поняли, что произошло, было уже слишком поздно.</Russian>
+        <Chinesesimp>敌军部队被彻底击溃——当他们发觉情况不妙时，早就为时已晚了。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_3_1">
+        <Original>The remaining Greenbacks consolidated for a last-ditch attempt at survival in what later became known as the &quot;Battle of Kavala&quot;.</Original>
+        <English>The remaining Greenbacks consolidated for a last-ditch attempt at survival in what later became known as the &quot;Battle of Kavala&quot;.</English>
+        <German>Die verbleibenden Grünrücken sammelten sich ein letztes Mal für einen verzweifelten Widerstand, der später als „Schlacht von Kavala“ in die Geschichte eingehen sollte.</German>
+        <Spanish>Los verduleros supervivientes consolidaron fuerzas para sobrevivir a la desesperada en la que acabaría conociéndose como la Batalla de Kavala.</Spanish>
+        <French>Les Greenbacks encore présents ont tout misé sur un baroud d&apos;honneur qui entrerait dans l&apos;histoire sous le nom de la &quot;bataille de Kavala&quot;.</French>
+        <Polish>Pozostałe przy życiu Zieleniaki podjęły ostatnią, rozpaczliwą próbę przetrwania w bitwie o Kavalę.</Polish>
+        <Portuguese>Os Greenbacks restantes se reagruparam para uma última tentativa desesperada de sobrevivência, no que mais tarde ficou conhecido como a “Batalha de Kavala”.</Portuguese>
+        <Russian>Оставшиеся зеленоспины решили стоять насмерть — именно этот бой позже назовут «Битвой за Кавалу».</Russian>
+        <Chinesesimp>残存的绿皮军重整旗鼓，试图做垂死挣扎，这场战斗后来被称为“卡瓦拉之战”。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_3_2">
+        <Original>Many fought until the very end, and some decided to surrender and were captured as POWs.</Original>
+        <English>Many fought until the very end, and some decided to surrender and were captured as POWs.</English>
+        <German>Viele von ihnen kämpften bis zum bitteren Ende, andere kapitulierten und wurden als Kriegsgefangene abtransportiert.</German>
+        <Spanish>Muchos lucharon hasta el final y unos pocos optaron por rendirse y se convirtieron en prisioneros de guerra.</Spanish>
+        <French>Beaucoup ont combattu jusqu&apos;au bout. D&apos;autres ont préféré se rendre et être faits prisonniers.</French>
+        <Polish>Wielu walczyło do samego końca, a niektórzy poddali się i zostali schwytani jako jeńcy wojenni.</Polish>
+        <Portuguese>Muitos lutaram até o fim, mas alguns decidiram se render e foram capturados como prisioneiros de guerra.</Portuguese>
+        <Russian>Многие сражались до конца, некоторые сдались и попали в плен.</Russian>
+        <Chinesesimp>许多敌军负隅顽抗至最后一刻，有一部分选择缴械投降并成为战俘。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_4_1">
+        <Original>Anything beyond that was up to the 111th ID. The men from Task Force Aegis were their comrades-in-arms, friends even – to them, this fight was personal.</Original>
+        <English>Anything beyond that was up to the 111th ID. The men from Task Force Aegis were their comrades-in-arms, friends even – to them, this fight was personal.</English>
+        <German>Was dann folgte, lag in den Händen der 111th ID. Die Soldaten von Task Force Aegis waren ihre Kameraden und Freunde, also wurde die Sache persönlich.</German>
+        <Spanish>El resto fue cosa de la 111.ª División de Infantería. Los hombres del Grupo de Combate Aegis eran sus compañeros, incluso sus amigos y, para ellos, esta lucha era algo personal.</Spanish>
+        <French>Ensuite, c&apos;est la 111e DI qui a pris le relais. Les hommes du contingent Aegis étaient leurs camarades, leurs amis. Ils comptaient faire de ce combat une affaire personnelle.</French>
+        <Polish>Reszta była już w rękach sto jedenastej. Żołnierze z Sił Zadaniowych Aegis byli ich towarzyszami broni, a nierzadko też przyjaciółmi – walka miała dla nich wymiar osobisty.</Polish>
+        <Portuguese>Qualquer coisa além disso ficava a cargo da 111ª Divisão de infantaria. Os homens da Força-tarefa Aegis eram colegas de armas, inclusive amigos. Para eles, a batalha era uma questão pessoal.</Portuguese>
+        <Russian>Дальше всё зависело от 111-й пехотной дивизии. Бойцы оперативной группы «Иджис» были для них не просто союзниками, а братьями по оружию. Для них эта битва стала личным делом.</Russian>
+        <Chinesesimp>剩下的事情就交给第 111 步兵师了，埃癸斯特遣部队的士兵是他们曾经的战友，其中很多人更是亲密无间的好友——对他们来说，这场战斗是纯粹的个人恩怨。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_4_2">
+        <Original>Their command team insisted they would take over the offensive, and we obliged.</Original>
+        <English>Their command team insisted they would take over the offensive, and we obliged.</English>
+        <German>Ihre Kommandoabteilung bestand darauf, dass sie in die Offensive gehen sollten, und wir folgten der Anweisung.</German>
+        <Spanish>Su grupo de mando insistió en tomar el control de la ofensiva y se lo cedimos encantados.</Spanish>
+        <French>Son commandement exigeait de diriger l&apos;offensive et on les a laissés faire.</French>
+        <Polish>Ich zespół dowodzenia nalegał, że weźmie ofensywę na swoje barki – zgodziliśmy się.</Polish>
+        <Portuguese>O comando insistiu que eles assumiriam a ofensiva, e nós concordamos.</Portuguese>
+        <Russian>Их командование настояло, что именно они возьмут на себя наступление — мы не возражали.</Russian>
+        <Chinesesimp>他们坚持要求接管战斗的指挥权，而我们同意了。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_5_1">
+        <Original>In just two days, the AAF raised the white flag, and for the first time, CSAT cracked under pressure.</Original>
+        <English>In just two days, the AAF raised the white flag, and for the first time, CSAT cracked under pressure.</English>
+        <German>In nur zwei Tagen hisste die AAF die weiße Flagge und CSAT musste erstmals dem Druck nachgeben.</German>
+        <Spanish>En apenas dos días, la AAF sacó bandera blanca y, por primera vez, el CSAT cedió ante la presión.</Spanish>
+        <French>En deux jours seulement, l&apos;AAF brandissait le drapeau blanc. Pour la première fois, le CSAT connaissait un revers.</French>
+        <Polish>W ciągu zaledwie dwóch dni AAF wywiesił białą flagę i CSAT, po raz pierwszy, ugiął się pod presją.</Polish>
+        <Portuguese>Em apenas dois dias, a AAF hasteou a bandeira branca e, pela primeira vez, a CSAT cedeu sob pressão.</Portuguese>
+        <Russian>Всего через два дня AAF подняли белый флаг, а CSAT впервые не выдержали давления.</Russian>
+        <Chinesesimp>短短两天之内，AAF 就举起了白旗，而这也是 CSAT 首次遭受重挫。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_5_2">
+        <Original>Unable to find a consensus on whether they were at war with us or not, they decided to avoid any escalation and abandoned their allies to their fate.</Original>
+        <English>Unable to find a consensus on whether they were at war with us or not, they decided to avoid any escalation and abandoned their allies to their fate.</English>
+        <German>Da sie nicht klar Stellung dazu beziehen konnten, ob wir uns im Krieg befanden oder nicht, entschieden sie sich stattdessen für Deeskalation und überließen ihre Verbündeten ihrem Schicksal.</German>
+        <Spanish>Sus miembros no lograron alcanzar un consenso respecto a si estaban o no en guerra con nosotros, decidieron evitar que el conflicto escalase y abandonaron a sus aliados a su suerte.</Spanish>
+        <French>Dans l&apos;incapacité de décider s&apos;il était en guerre avec nous, le CSAT a préféré éviter l&apos;escalade et abandonner ses alliés à leur sort.</French>
+        <Polish>Nie mogąc się porozumieć co do tego, czy jest z nami w stanie wojny, czy nie, postanowił uniknąć eskalacji, pozostawiając sojuszników na pastwę losu.</Polish>
+        <Portuguese>Sem chegar a um consenso sobre estarem ou não em guerra conosco, eles decidiram evitar qualquer escalada e abandonaram os aliados à própria sorte.</Portuguese>
+        <Russian>Не сумев решить, находятся ли они вообще в состоянии войны, они предпочли не обострять ситуацию и бросили своих союзников на произвол судьбы.</Russian>
+        <Chinesesimp>由于在是否与我们交战这个问题上无法达成共识，他们决定避免事态升级，并抛弃了其盟友，不管他们的死活。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_6_1">
+        <Original>Finally, a bit of good news. A few days later, news broke that not everyone from Task Force Aegis was dead.</Original>
+        <English>Finally, a bit of good news. A few days later, news broke that not everyone from Task Force Aegis was dead.</English>
+        <German>Endlich gute Neuigkeiten: Ein paar Tage später gingen die ersten Berichte ein, dass nicht alle Soldaten von Task Force Aegis verstorben waren.</German>
+        <Spanish>Acabamos recibiendo buenas noticias. A los pocos días, corrió la voz de que no todos los integrantes del Grupo de Combate Aegis habían muerto.</Spanish>
+        <French>Une bonne nouvelle nous est parvenue après quelques jours : on a appris que certains membres du contingent Aegis étaient en vie.</French>
+        <Polish>Nareszcie jakieś dobre wieści. Kilka dni później gruchnęła wiadomość, że nie wszyscy z Sił Zadaniowych Aegis zginęli.</Polish>
+        <Portuguese>Finalmente, uma boa notícia. Alguns dias depois, chegou a informação de que nem todos da Força-tarefa Aegis estavam mortos.</Portuguese>
+        <Russian>Наконец появилась хоть какая-то хорошая новость: спустя несколько дней стало известно, что не все из оперативной группы «Иджис» погибли.</Russian>
+        <Chinesesimp>最后，有一个好消息。几天之后，我们接到消息，有部分埃癸斯特遣部队的队员活了下来。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Outro_6_2">
+        <Original>I guess executing prisoners in cold blood was too much even for the Greenbacks.</Original>
+        <English>I guess executing prisoners in cold blood was too much even for the Greenbacks.</English>
+        <German>Kriegsgefangene kaltblütig hinzurichten, schien selbst für die Grünrücken ein Schritt zu weit.</German>
+        <Spanish>Supongo que ejecutar prisioneros a sangre fría es demasiado incluso para los verduleros.</Spanish>
+        <French>Tuer les prisonniers de sang-froid, c&apos;était trop, même pour les Greenbacks.</French>
+        <Polish>Egzekucje więźniów z zimną krwią to najwyraźniej za dużo – nawet dla Zieleniaków.</Polish>
+        <Portuguese>Acho que executar prisioneiros a sangue frio era demais até mesmo para os Greenbacks.</Portuguese>
+        <Russian>Похоже, даже для зеленоспинов хладнокровный расстрел пленных показался слишком жестокой акцией.</Russian>
+        <Chinesesimp>或许，即使对于绿皮军来说，他们也不忍心冷血地处决战俘。</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_Misc" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_LPD_Base_New">
+        <Original>LPD 36 [USS Takmyr]</Original>
+        <English>LPD 36 [USS Takmyr]</English>
+        <German>LPD 36 [USS Takmyr]</German>
+        <Spanish>LPD 36 [USS Takmyr]</Spanish>
+        <French>LPD 36 [USS Takmyr]</French>
+        <Polish>LPD 36 (USS Takmyr)</Polish>
+        <Portuguese>LPD 36 [USS Takmyr]</Portuguese>
+        <Russian>LPD 36 [авианосец Такмир]</Russian>
+        <Chinesesimp>LPD 36 [塔克米尔号]</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_ModuleCradle_DSC">
+        <Original>This module is used to aid with the retrieval of Combat Boats. Once the player drives inside the module area, they will have the option to load the boat into one of the synced Combat Boat Cradles.</Original>
+        <English>This module is used to aid with the retrieval of Combat Boats. Once the player drives inside the module area, they will have the option to load the boat into one of the synced Combat Boat Cradles.</English>
+        <German>Dieses Modul hilft beim Einladen von Kampfbooten. Wenn der Spieler ein Boot in den Modulbereich fährt, hat er die Option, es in einen der synchronisierten Kampfboot-Ständer zu laden.</German>
+        <Spanish>Este módulo sirve para recuperar lanchas de combate con más facilidad. Cuando un jugador atraca en la zona del módulo, se le da la opción de cargar la embarcación en una de las basadas para lanchas de combate sincronizadas.</Spanish>
+        <French>Ce module aide à la récupération de bateaux de combat. Lorsque le joueur entre dans la zone du module, il peut charger le bateau dans l&apos;un des bers de bateaux synchronisés.</French>
+        <Polish>Moduł służący do pomocy w odzyskiwaniu łodzi bojowych. Po wjechaniu w obszar modułu gracz będzie miał możliwość załadowania łodzi do jednej ze zsynchronizowanych podpór łodzi bojowych.</Polish>
+        <Portuguese>Este módulo serve para auxiliar na recuperação de barcos de combate. Quando o jogador dirigir dentro da área do módulo, terá a opção de carregar a lancha em um dos Suportes de barco de combate sincronizados.</Portuguese>
+        <Russian>Этот модуль предназначен для подъема боевых катеров. Когда игрок заезжает в зону действия модуля, он может погрузить катер на один из синхронизированных стапелей для боевых катеров.</Russian>
+        <Chinesesimp>此模块用于回收作战艇。当玩家驾驶船只进入模块区域时，他们可以选择将船只装载到其中一个已同步的作战艇吊架上。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_ModuleCradle_NoSync">
+        <Original>No Cradle synced with the module!</Original>
+        <English>No Cradle synced with the module!</English>
+        <German>Kein Kampfboot-Ständer ist mit dem Modul synchronisiert!</German>
+        <Spanish>¡No hay ninguna basada sincronizada con el módulo!</Spanish>
+        <French>Aucun ber synchronisé avec le module !</French>
+        <Polish>Brak podpory zsynchronizowanej z modułem!</Polish>
+        <Portuguese>Nenhum Suporte sincronizado com o módulo!</Portuguese>
+        <Russian>Нет стапелей, синхронизированных с модулем!</Russian>
+        <Chinesesimp>没有任何吊架与此模块同步！</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_ModuleCradle_LoadBoat">
+        <Original>Retrieve Boat</Original>
+        <English>Retrieve Boat</English>
+        <German>Boot einladen</German>
+        <Spanish>Recuperar lancha</Spanish>
+        <French>Récupérer le bateau</French>
+        <Polish>Zabierz łódź</Polish>
+        <Portuguese>Recuperar o Barco</Portuguese>
+        <Russian>Забрать катер</Russian>
+        <Chinesesimp>回收船只</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_ModuleCradle_Occupied">
+        <Original>All Cradles are currently occupied!</Original>
+        <English>All Cradles are currently occupied!</English>
+        <German>Alle Kampfboot-Ständer sind belegt!</German>
+        <Spanish>¡Todas las basadas están ocupadas!</Spanish>
+        <French>Tous les bers sont occupés !</French>
+        <Polish>Wszystkie podpory są obecnie zajęte!</Polish>
+        <Portuguese>Todos os Suportes estão ocupados no momento!</Portuguese>
+        <Russian>Все стапели сейчас заняты!</Russian>
+        <Chinesesimp>所有吊架目前都被占用！</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgMods_terrainPrevNotifText">
+        <Original>This mission is part of the Expeditionary Forces CDLC. Please purchase the CDLC to use it.</Original>
+        <English>This mission is part of the Expeditionary Forces CDLC. Please purchase the CDLC to use it.</English>
+        <German>Diese Mission ist Teil des Expeditionary Forces CDLC. Kaufe ihn, um sie zu spielen.</German>
+        <Spanish>Esta misión forma parte de Expeditionary Forces. Cómpralo para jugarla.</Spanish>
+        <French>Cette mission fait partie du CDLC Expeditionary Forces. Achetez le CDLC pour y jouer.</French>
+        <Polish>Ta misja stanowi część CDLC „Expeditionary Forces”. Kup CDLC, aby z niego korzystać.</Polish>
+        <Portuguese>Esta missão é parte do Expeditionary Forces CDLC. Adquira-o para usá-la.</Portuguese>
+        <Russian>Эта миссия из Expeditionary Forces CDLC. Купите дополнение, чтобы играть в нее.</Russian>
+        <Chinesesimp>这项任务是《Expeditionary Forces CDLC》的一部分，请购买此 CDLC 以进行此任务。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_ProjectLead">
+        <Original>Project Lead</Original>
+        <English>Project Lead</English>
+        <German>Projektleitung</German>
+        <Spanish>Jefe de proyecto</Spanish>
+        <French>Responsable projet</French>
+        <Polish>Nadzór projektu</Polish>
+        <Portuguese>Líder de projeto</Portuguese>
+        <Russian>Руководитель проекта</Russian>
+        <Chinesesimp>项目主管</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Artists">
+        <Original>Artists</Original>
+        <English>Artists</English>
+        <German>Designer</German>
+        <Spanish>Artistas</Spanish>
+        <French>Artistes</French>
+        <Polish>Graficy</Polish>
+        <Portuguese>Artistas</Portuguese>
+        <Russian>Художники</Russian>
+        <Chinesesimp>设计师</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_MissionDesign">
+        <Original>Mission Design</Original>
+        <English>Mission Design</English>
+        <German>Missionsdesign</German>
+        <Spanish>Diseño de misiones</Spanish>
+        <French>Conception des missions</French>
+        <Polish>Projekt misji</Polish>
+        <Portuguese>Design de missões</Portuguese>
+        <Russian>Дизайн миссий</Russian>
+        <Chinesesimp>任务设计</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_SoundDesign">
+        <Original>Sound Design</Original>
+        <English>Sound Design</English>
+        <German>Sounddesign</German>
+        <Spanish>Diseño de sonido</Spanish>
+        <French>Conception sonore</French>
+        <Polish>Udźwiękowienie</Polish>
+        <Portuguese>Design de som</Portuguese>
+        <Russian>Саунд-дизайн</Russian>
+        <Chinesesimp>声音设计</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Music">
+        <Original>Music</Original>
+        <English>Music</English>
+        <German>Musik</German>
+        <Spanish>Música</Spanish>
+        <French>Musique</French>
+        <Polish>Muzyka</Polish>
+        <Portuguese>Música</Portuguese>
+        <Russian>Музыка</Russian>
+        <Chinesesimp>音乐</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Animations">
+        <Original>Animations</Original>
+        <English>Animations</English>
+        <German>Animationen</German>
+        <Spanish>Animaciones</Spanish>
+        <French>Animations</French>
+        <Polish>Animacje</Polish>
+        <Portuguese>Animações</Portuguese>
+        <Russian>Анимация</Russian>
+        <Chinesesimp>动画</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Artwork">
+        <Original>Artwork</Original>
+        <English>Artwork</English>
+        <German>Illustrationen</German>
+        <Spanish>Arte</Spanish>
+        <French>Conception visuelle</French>
+        <Polish>Grafika</Polish>
+        <Portuguese>Arte</Portuguese>
+        <Russian>Иллюстрации</Russian>
+        <Chinesesimp>艺术作品</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Programming">
+        <Original>Programming</Original>
+        <English>Programming</English>
+        <German>Programmierung</German>
+        <Spanish>Programación</Spanish>
+        <French>Programmation</French>
+        <Polish>Programowanie</Polish>
+        <Portuguese>Programação</Portuguese>
+        <Russian>Программирование</Russian>
+        <Chinesesimp>程序</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_VoiceActing">
+        <Original>Voice Acting</Original>
+        <English>Voice Acting</English>
+        <German>Synchronsprecher</German>
+        <Spanish>Doblaje</Spanish>
+        <French>Voix</French>
+        <Polish>Aktorzy głosowi</Polish>
+        <Portuguese>Dublagem</Portuguese>
+        <Russian>Актеры озвучивания</Russian>
+        <Chinesesimp>配音演出</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Trailer">
+        <Original>Trailer</Original>
+        <English>Trailer</English>
+        <German>Trailer</German>
+        <Spanish>Tráiler</Spanish>
+        <French>Bande-annonce</French>
+        <Polish>Zwiastun</Polish>
+        <Portuguese>Trailer</Portuguese>
+        <Russian>Трейлер</Russian>
+        <Chinesesimp>预告片</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_Testers">
+        <Original>Testers</Original>
+        <English>Testers</English>
+        <German>Tester</German>
+        <Spanish>Testeo</Spanish>
+        <French>Testeurs</French>
+        <Polish>Testerzy</Polish>
+        <Portuguese>Testadores</Portuguese>
+        <Russian>Тестировщики</Russian>
+        <Chinesesimp>测试员</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgCredits_BohemiaInteractive">
+        <Original>Bohemia Interactive</Original>
+        <English>Bohemia Interactive</English>
+        <German>Bohemia Interactive</German>
+        <Spanish>Bohemia Interactive</Spanish>
+        <French>Bohemia Interactive</French>
+        <Polish>Bohemia Interactive</Polish>
+        <Portuguese>Bohemia Interactive</Portuguese>
+        <Russian>Bohemia Interactive</Russian>
+        <Chinesesimp>Bohemia Interactive</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Action_BoardShip">
+        <Original>Board ship</Original>
+        <English>Board ship</English>
+        <German>An Bord gehen</German>
+        <Spanish>Embarcar</Spanish>
+        <French>Monter à bord</French>
+        <Polish>Wsiądź na statek</Polish>
+        <Portuguese>Embarcar no navio</Portuguese>
+        <Russian>Сесть на корабль</Russian>
+        <Chinesesimp>登上船只</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_MJTF_Camo">
+        <Original>MJTF Camo</Original>
+        <English>MJTF Camo</English>
+        <German>MJTF-Tarnung</German>
+        <Spanish>Camuflaje de la FOCM</Spanish>
+        <French>Camouflage MJTF</French>
+        <Polish>Kamuflaż MJTF</Polish>
+        <Portuguese>MJTF (Camuflado)</Portuguese>
+        <Russian>Камуфляж MJTF</Russian>
+        <Chinesesimp>MJTF 迷彩</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Attribute_CustomShipName_TT">
+        <Original>Custom name applied to the ship. Text format, case sensitive.</Original>
+        <English>Custom name applied to the ship. Text format, case sensitive.</English>
+        <German>Benutzerdefinierter Schiffsname. Textformat, Groß-/ Kleinschreibung.</German>
+        <Spanish>El nombre personalizado que se le pone a la nave, en formato de texto y distinguiendo mayúsculas y minúsculas.</Spanish>
+        <French>Nom personnalisé imprimé sur le navire. Format texte, attention aux majuscules.</French>
+        <Polish>Własna nazwa zastosowana do statku. Format tekstowy, rozróżnianie wielkości liter.</Polish>
+        <Portuguese>Nome personalizado aplicado ao navio. Formato de texto, diferencia maiúsculas e minúsculas.</Portuguese>
+        <Russian>Пользовательское имя, присвоенное кораблю. Текстовый формат, чувствительный к регистру.</Russian>
+        <Chinesesimp>应用于船只的自定义名称。文本格式，区分大小写。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Show_MG_Armor">
+        <Original>Show Machinegun Armor</Original>
+        <English>Show Machinegun Armor</English>
+        <German>Maschinengewehr-Panzerung zeigen</German>
+        <Spanish>Mostrar blindaje de ametralladora</Spanish>
+        <French>Afficher blindage de mitrailleuse</French>
+        <Polish>Wyświetl pancerz karabinu maszynowego</Polish>
+        <Portuguese>Exibir blindagem de metralhadora</Portuguese>
+        <Russian>Показать броню пулемета</Russian>
+        <Chinesesimp>显示机枪护盾</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Show_Turret_Armor">
+        <Original>Show Turret Armor</Original>
+        <English>Show Turret Armor</English>
+        <German>Turmpanzerung zeigen</German>
+        <Spanish>Mostrar blindaje de torreta</Spanish>
+        <French>Afficher blindage de tourelle</French>
+        <Polish>Wyświetl pancerz wieżyczki</Polish>
+        <Portuguese>Exibir blindagem de torreta</Portuguese>
+        <Russian>Показать броню башни</Russian>
+        <Chinesesimp>显示炮塔护盾</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorized">
+        <Original>Guard Motorized Infantry</Original>
+        <English>Guard Motorized Infantry</English>
+        <German>Garde – Motorisierte Infanterie</German>
+        <Spanish>Proteger infantería motorizada</Spanish>
+        <French>Garde - Infanterie motorisée</French>
+        <Polish>Straż, piechota zmotoryzowana</Polish>
+        <Portuguese>Infantaria de guarda motorizada</Portuguese>
+        <Russian>Гвардейская моторизованная пехота</Russian>
+        <Chinesesimp>卫兵 - 摩托化步兵</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorizedTeam">
+        <Original>Guard Motorized Team</Original>
+        <English>Guard Motorized Team</English>
+        <German>Garde – Motorisiertes Team</German>
+        <Spanish>Proteger equipo motorizado</Spanish>
+        <French>Garde - Équipe motorisée</French>
+        <Polish>Straż, zmotoryzowana drużyna</Polish>
+        <Portuguese>Equipe de guarda motorizada</Portuguese>
+        <Russian>Гвардейская мотопехотная группа</Russian>
+        <Chinesesimp>卫兵 - 摩托化小队</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorizedPatrol">
+        <Original>Guard Motorized Patrol</Original>
+        <English>Guard Motorized Patrol</English>
+        <German>Garde – Motorisierte Patrouille</German>
+        <Spanish>Proteger patrulla motorizada</Spanish>
+        <French>Garde - Patrouille motorisée</French>
+        <Polish>Straż, zmotoryzowany patrol</Polish>
+        <Portuguese>Patrulha de guarda motorizada</Portuguese>
+        <Russian>Гвардейский мотопехотный патруль</Russian>
+        <Chinesesimp>卫兵 - 摩托化巡逻</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorizedAssaultTeam">
+        <Original>Guard Motorized Assault Team</Original>
+        <English>Guard Motorized Assault Team</English>
+        <German>Garde – Motorisiertes Angriffsteam</German>
+        <Spanish>Proteger equipo de asalto motorizado</Spanish>
+        <French>Garde - Équipe d&apos;assaut motorisée</French>
+        <Polish>Straż, zmotoryzowana drużyna uderzeniowa</Polish>
+        <Portuguese>Equipe de assalto de guarda motorizada</Portuguese>
+        <Russian>Гвардейская мотопехотная штурмовая группа</Russian>
+        <Chinesesimp>卫兵 - 摩托化突击小队</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorizedAntiarmorTeam">
+        <Original>Guard Motorized Anti-armor Team</Original>
+        <English>Guard Motorized Anti-armor Team</English>
+        <German>Garde – Motorisiertes Panzerabwehr-Team</German>
+        <Spanish>Proteger equipo antiblindados motorizado</Spanish>
+        <French>Garde - Équipe antiblindé motorisée</French>
+        <Polish>Straż, zmotoryzowana drużyna ppanc</Polish>
+        <Portuguese>Equipe de guarda motorizada antiblindados</Portuguese>
+        <Russian>Гвардейская мотопехотная противотанковая группа</Russian>
+        <Chinesesimp>卫兵 - 摩托化反装甲小队</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_CfgGroups_GuardMotorizedAirdefenseTeam">
+        <Original>Guard Motorized Air-defense Team</Original>
+        <English>Guard Motorized Air-defense Team</English>
+        <German>Garde – Motorisiertes Luftabwehr-Team</German>
+        <Spanish>Proteger equipo antiaéreo motorizado</Spanish>
+        <French>Garde - Équipe antiaérienne motorisée</French>
+        <Polish>Straż, zmotoryzowana drużyna plot</Polish>
+        <Portuguese>Equipe de guarda motorizada antiaérea</Portuguese>
+        <Russian>Гвардейский моторизованный отряд ПВО</Russian>
+        <Chinesesimp>卫兵 - 摩托化防空小队</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_Static" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_B_HMG_01_A_weapon_MJTF_des">
+        <Original>Dismantled Mk30A HMG [MJTF]</Original>
+        <English>Dismantled Mk30A HMG [MJTF]</English>
+        <German>Demontiertes Mk30A-HMG [MJTF]</German>
+        <Spanish>Ametralladora pes. desmontada Mk30 [FOCM]</Spanish>
+        <French>HMG Mk30A démontée [MJTF]</French>
+        <Polish>Rozłożony CKM Mk30A [MJTF]</Polish>
+        <Portuguese>Mk30A MP desmontada [MJTF]</Portuguese>
+        <Russian>Снятый пулемет Mk30A [MJTF]</Russian>
+        <Chinesesimp>拆解的 Mk30A 重机枪 [MJTF]</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_B_GMG_01_A_weapon_MJTF_des">
+        <Original>Dismantled Mk32A GMG [MJTF]</Original>
+        <English>Dismantled Mk32A GMG [MJTF]</English>
+        <German>Demontiertes Mk32A-GMG [MJTF]</German>
+        <Spanish>Lanzagranadas auto. desmontado Mk32 [FOCM]</Spanish>
+        <French>GMG Mk32A démontée [MJTF]</French>
+        <Polish>Rozłożony GMG Mk32A [MJTF]</Polish>
+        <Portuguese>Mk32A MLG desmontada [MJTF]</Portuguese>
+        <Russian>Снятый авт. гранатомет Mk32A [MJTF]</Russian>
+        <Chinesesimp>拆解的 Mk32A 榴弹机枪 [MJTF]</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_B_GMG_01_weapon_high_MJTF_des">
+        <Original>Dismantled Mk32 GMG (Raised) [MJTF]</Original>
+        <English>Dismantled Mk32 GMG (Raised) [MJTF]</English>
+        <German>Demontiertes Mk32-GMG (erhöht) [MJTF]</German>
+        <Spanish>Lanzagranadas auto. desmontado Mk32 (alto) [FOCM]</Spanish>
+        <French>GMG Mk32 démontée (rehaussée) [MJTF]</French>
+        <Polish>Rozłożony GMG Mk32 (podwyższony) [MJTF]</Polish>
+        <Portuguese>Mk32 MLG desmontada (levantada) [FDL]</Portuguese>
+        <Russian>Снятый авт. гранатомет Mk32 (поднят) [MJTF]</Russian>
+        <Chinesesimp>拆解的 Mk32A 榴弹机枪（加高）[MJTF]</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_Marines" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_V_AAV_Diver_NoReb_Coy">
+        <Original>Amphibious Assault Vest (Coyote Brown/Diver/No Rebreather)</Original>
+        <English>Amphibious Assault Vest (Coyote Brown/Diver/No Rebreather)</English>
+        <German>Amphibische Sturmweste (Coyote-Braun/Taucher/ohne Atemgerät)</German>
+        <Spanish>Chaleco de asalto anfibio (marrón coyote, submarinista, sin respirador)</Spanish>
+        <French>Gilet d&apos;assaut amphibie (marron coyote/plongeur/pas de recycleur)</French>
+        <Polish>Wodno-lądowa kamizelka bojowa (brąz coyote, nurek, bez aparatu oddech.)</Polish>
+        <Portuguese>Colete de ataque anfíbio (Coiote marrom/mergulhador/sem respirador)</Portuguese>
+        <Russian>Штурмовой жилет для десантных операций (коричневый койот/пловец/без кислородной маски)</Russian>
+        <Chinesesimp>两栖突击背心（狼棕色/驾驶员/无呼吸器）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_V_AAV_Diver_NoReb_Olive">
+        <Original>Amphibious Assault Vest (Olive/Diver/No Rebreather)</Original>
+        <English>Amphibious Assault Vest (Olive/Diver/No Rebreather)</English>
+        <German>Amphibische Sturmweste (Olivgrün/Taucher/ohne Atemgerät)</German>
+        <Spanish>Chaleco de asalto anfibio (oliva, submarinista, sin respirador)</Spanish>
+        <French>Gilet d&apos;assaut amphibie (olive/plongeur/pas de recycleur)</French>
+        <Polish>Wodno-lądowa kamizelka bojowa (oliwkowa, nurek, bez aparatu oddech.)</Polish>
+        <Portuguese>Colete de ataque anfíbio (Verde-oliva/mergulhador/sem respirador)</Portuguese>
+        <Russian>Штурмовой жилет для десантных операций (оливковый/пловец/без кислородной маски)</Russian>
+        <Chinesesimp>两栖突击背心（橄榄绿/驾驶员/无呼吸器）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_V_AAV_Diver_NoReb_Black">
+        <Original>Amphibious Assault Vest (Black/Diver/No Rebreather)</Original>
+        <English>Amphibious Assault Vest (Black/Diver/No Rebreather)</English>
+        <German>Amphibische Sturmweste (Schwarz/Taucher/ohne Atemgerät)</German>
+        <Spanish>Chaleco de asalto anfibio (negro, submarinista, sin respirador)</Spanish>
+        <French>Gilet d&apos;assaut amphibie (noir/plongeur/pas de recycleur)</French>
+        <Polish>Wodno-lądowa kamizelka bojowa (czarna, nurek, bez aparatu oddech.)</Polish>
+        <Portuguese>Colete de ataque anfíbio (Preto/mergulhador/sem respirador)</Portuguese>
+        <Russian>Штурмовой жилет для десантных операций (черный/пловец/без кислородной маски)</Russian>
+        <Chinesesimp>两栖突击背心（黑色/驾驶员/无呼吸器）</Chinesesimp>
+    </Key>
+</Container>
+<Container name="STR_EF_RC_Chapter1_Marker" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_RC_Chapter1_Marker_LZ_Boston">
+        <Original>LZ Boston</Original>
+        <English>LZ Boston</English>
+        <German>LZ Boston</German>
+        <Spanish>Zona de aterrizaje Boston</Spanish>
+        <French>ZA Boston</French>
+        <Polish>Strefa lądowania Boston</Polish>
+        <Portuguese>ZP Boston</Portuguese>
+        <Russian>Зона высадки Бостон</Russian>
+        <Chinesesimp>波士顿着陆区</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_RC_Chapter1_Marker_Rally_Point">
+        <Original>Rally Point</Original>
+        <English>Rally Point</English>
+        <German>Sammelpunkt</German>
+        <Spanish>Punto de reunión</Spanish>
+        <French>Point de ralliement</French>
+        <Polish>Punkt zborny</Polish>
+        <Portuguese>Ponto de encontro</Portuguese>
+        <Russian>Точка сбора</Russian>
+        <Chinesesimp>集结点</Chinesesimp>
+    </Key>
+</Container>
+<Container name="ef_functions" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_FireSupport_InProgress">
+        <Original>Fire mission already in progress. Over.</Original>
+        <English>Fire mission already in progress. Over.</English>
+        <German>Feuerunterstützung ist schon im Gange. Kommen.</German>
+        <Spanish>Misión de fuego en curso. Cambio.</Spanish>
+        <French>Mission de tir déjà en cours. À vous.</French>
+        <Polish>Wsparcie ogniowe w drodze. Odbiór.</Polish>
+        <Portuguese>Missão de fogo em andamento. Câmbio.</Portuguese>
+        <Russian>Огневая задача уже выполняется. Прием.</Russian>
+        <Chinesesimp>已开始执行火力支援。完毕。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_ModuleNLOS">
+        <Original>Support Provider: Cruise Missile</Original>
+        <English>Support Provider: Cruise Missile</English>
+        <German>Unterstützung: Marschflugkörper</German>
+        <Spanish>Apoyo proporcionado: Misil de crucero</Spanish>
+        <French>Aide disponible : missile de croisière</French>
+        <Polish>Wsparcie: pocisk manewrujący</Polish>
+        <Portuguese>Provedor de apoio: míssil de cruzeiro</Portuguese>
+        <Russian>Средство поддержки: крылатая ракета</Russian>
+        <Chinesesimp>火力支援装备：巡航导弹</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_Weapons" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_200Rnd_30mm_HEDP_shells_Tracer_Green_DS">
+        <Original>Type: 30x113 mm High Explosive Dual Purpose&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra AFV 30mm Autocannon</Original>
+        <English>Type: 30x113 mm High Explosive Dual Purpose&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra AFV 30mm Autocannon</English>
+        <German>Typ: 30x113mm-Hochexplosiv-Mehrzweckmunition&lt;br/&gt;Schuss: 200&lt;br /&gt;Für: Gyra AFV 30mm-Autokanone</German>
+        <Spanish>Tipo: 30x113 mm explosiva dual&lt;br/&gt;Proyectiles: 200&lt;br /&gt;Para: Cañón automático de 30 mm de Gyra AFV</Spanish>
+        <French>Type : 30x113 mm hautement explosif double usage&lt;br/&gt;Munitions : 200&lt;br/&gt;Application : canon automatique 30 mm de blindé léger Gyra</French>
+        <Polish>Typ: 30 x 113 mm, odłamkowo-burzący podwój. przeznacz.&lt;br/&gt;Naboje: 200&lt;br /&gt;Kompatybilność: działko automatyczne 30 mm Gyra AFV</Polish>
+        <Portuguese>Tipo: 30x113 mm Alto Explosivo de Duplo Propósito&lt;br/&gt;Munições: 200&lt;br /&gt;Uso: Canhão automático Gyra AFV 30 mm</Portuguese>
+        <Russian>Тип: 30x113 мм, фугасные боеприпасы двойного назначения&lt;br/&gt;Снарядов: 200&lt;br/&gt;Для 30-мм автопушки Gyra AFV</Russian>
+        <Chinesesimp>类型：30x113 毫米高爆两用弹&lt;br/&gt;容量：200&lt;br /&gt;用于：Gyra AFV 30 毫米自动火炮</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_200Rnd_30mm_HEAB_shells_Tracer_Green_DS">
+        <Original>Type: 30x113 mm High Explosive Air Burst&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra LAAD 30mm Autocannon</Original>
+        <English>Type: 30x113 mm High Explosive Air Burst&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra LAAD 30mm Autocannon</English>
+        <German>Typ: 30x113mm-Hochexplosiv-Luftdetonationsmunition&lt;br/&gt;Schuss: 200&lt;br /&gt;Für: Gyra LAAD 30mm-Autokanone</German>
+        <Spanish>Tipo: 30x113 mm explosiva por ráfaga de aire&lt;br/&gt;Proyectiles: 200&lt;br /&gt;Para: Cañón automático de 30 mm de Gyra LAAD</Spanish>
+        <French>Type : 30x113 mm hautement explosif à détonation aérienne&lt;br/&gt;Munitions : 200&lt;br/&gt;Application : canon automatique 30 mm de Gyra LAAD</French>
+        <Polish>Typ: 30 x 113 mm, odłamkowo-burzący ABM&lt;br/&gt;Naboje: 200&lt;br /&gt;Kompatybilność: działko automatyczne 30 mm Gyra LAAD</Polish>
+        <Portuguese>Tipo: 30x113 mm Alto Explosivo de Detonação Aérea&lt;br/&gt;Munições: 200&lt;br /&gt;Uso: Canhão automático Gyra LAAD 30 mm</Portuguese>
+        <Russian>Тип: 30x113 мм, фугасные боеприпасы воздушного подрыва&lt;br/&gt;Снарядов: 200&lt;br/&gt;Для 30-мм автопушки Gyra LAAD</Russian>
+        <Chinesesimp>类型：30x113 毫米高爆空爆弹&lt;br/&gt;容量：200&lt;br /&gt;用于：Gyra LAAD 30 毫米自动火炮</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_200Rnd_30mm_HEDP_shells_Tracer_Yellow_DS">
+        <Original>Type: 30x113 mm High Explosive Dual Purpose&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra AFV 30mm Autocannon</Original>
+        <English>Type: 30x113 mm High Explosive Dual Purpose&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra AFV 30mm Autocannon</English>
+        <German>Typ: 30x113mm-Hochexplosiv-Mehrzweckmunition&lt;br/&gt;Schuss: 200&lt;br /&gt;Für: Gyra AFV 30mm-Autokanone</German>
+        <Spanish>Tipo: 30x113 mm explosiva dual&lt;br/&gt;Proyectiles: 200&lt;br /&gt;Para: Cañón automático de 30 mm de Gyra AFV</Spanish>
+        <French>Type : 30x113 mm hautement explosif double usage&lt;br/&gt;Munitions : 200&lt;br/&gt;Application : canon automatique 30 mm de blindé léger Gyra</French>
+        <Polish>Typ: 30 x 113 mm, odłamkowo-burzący podwój. przeznacz.&lt;br/&gt;Naboje: 200&lt;br /&gt;Kompatybilność: działko automatyczne 30 mm Gyra AFV</Polish>
+        <Portuguese>Tipo: 30x113 mm Alto Explosivo de Duplo Propósito&lt;br/&gt;Munições: 200&lt;br /&gt;Uso: Canhão automático Gyra AFV 30 mm</Portuguese>
+        <Russian>Тип: 30x113 мм, фугасные боеприпасы двойного назначения&lt;br/&gt;Снарядов: 200&lt;br/&gt;Для 30-мм автопушки Gyra AFV</Russian>
+        <Chinesesimp>类型：30x113 毫米高爆两用弹&lt;br/&gt;容量：200&lt;br /&gt;用于：Gyra AFV 30 毫米自动火炮</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_200Rnd_30mm_HEAB_shells_Tracer_Yellow_DS">
+        <Original>Type: 30x113 mm High Explosive Air Burst&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra LAAD 30mm Autocannon</Original>
+        <English>Type: 30x113 mm High Explosive Air Burst&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: Gyra LAAD 30mm Autocannon</English>
+        <German>Typ: 30x113mm-Hochexplosiv-Luftdetonationsmunition&lt;br/&gt;Schuss: 200&lt;br /&gt;Für: Gyra LAAD 30mm-Autokanone</German>
+        <Spanish>Tipo: 30x113 mm explosiva por ráfaga de aire&lt;br/&gt;Proyectiles: 200&lt;br /&gt;Para: Cañón automático de 30 mm de Gyra LAAD</Spanish>
+        <French>Type : 30x113 mm hautement explosif à détonation aérienne&lt;br/&gt;Munitions : 200&lt;br/&gt;Application : canon automatique 30 mm de Gyra LAAD</French>
+        <Polish>Typ: 30 x 113 mm, odłamkowo-burzący ABM&lt;br/&gt;Naboje: 200&lt;br /&gt;Kompatybilność: działko automatyczne 30 mm Gyra LAAD</Polish>
+        <Portuguese>Tipo: 30x113 mm Alto Explosivo de Detonação Aérea&lt;br/&gt;Munições: 200&lt;br /&gt;Uso: Canhão automático Gyra LAAD 30 mm</Portuguese>
+        <Russian>Тип: 30x113 мм, фугасные боеприпасы воздушного подрыва&lt;br/&gt;Снарядов: 200&lt;br/&gt;Для 30-мм автопушки Gyra LAAD</Russian>
+        <Chinesesimp>类型：30x113 毫米高爆空爆弹&lt;br/&gt;容量：200&lt;br /&gt;用于：Gyra LAAD 30 毫米自动火炮</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_mortar_120mm_DN">
+        <Original>Mortar 120mm</Original>
+        <English>Mortar 120mm</English>
+        <German>120mm-Mörser</German>
+        <Spanish>Mortero 120 mm</Spanish>
+        <French>Mortier 120 mm</French>
+        <Polish>Moździerz 120 mm</Polish>
+        <Portuguese>Morteiro 120 mm</Portuguese>
+        <Russian>Миномет 120 мм</Russian>
+        <Chinesesimp>迫击炮 120 毫米</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_snds_diplomat">
+        <Original>Diplomat Sound Suppressor (9 mm)</Original>
+        <English>Diplomat Sound Suppressor (9 mm)</English>
+        <German>Diplomat-Schalldämpfer (9 mm)</German>
+        <Spanish>Silenciador de Diplomat (9 mm)</Spanish>
+        <French>Silencieux Diplomat (9 mm)</French>
+        <Polish>Tłumik dźwięku Diplomat (9 mm)</Polish>
+        <Portuguese>Supressor de som Diplomat (9 mm)</Portuguese>
+        <Russian>Глушитель для ПП «Дипломат» (9 мм)</Russian>
+        <Chinesesimp>Diplomat 消音器（9 毫米）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_snds_diplomat_coy">
+        <Original>Diplomat Sound Suppressor (9 mm, Coyote)</Original>
+        <English>Diplomat Sound Suppressor (9 mm, Coyote)</English>
+        <German>Diplomat-Schalldämpfer (9 mm, Coyote)</German>
+        <Spanish>Silenciador de Diplomat (9 mm, coyote)</Spanish>
+        <French>Silencieux Diplomat (9 mm, coyote)</French>
+        <Polish>Tłumik dźwięku Diplomat (9 mm, coyote)</Polish>
+        <Portuguese>Supressor de som Diplomat (9 mm, coiote)</Portuguese>
+        <Russian>Глушитель для ПП «Дипломат» (9 мм, койот)</Russian>
+        <Chinesesimp>Diplomat 消音器（9 毫米，棕褐色）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_DN">
+        <Original>Diplomat 9 mm</Original>
+        <English>Diplomat 9 mm</English>
+        <German>Diplomat 9 mm</German>
+        <Spanish>Diplomat 9 mm</Spanish>
+        <French>Diplomat 9 mm</French>
+        <Polish>Diplomat 9 mm</Polish>
+        <Portuguese>Diplomat 9 mm</Portuguese>
+        <Russian>«Дипломат», 9 мм</Russian>
+        <Chinesesimp>Diplomat 9 毫米</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_DS">
+        <Original>Submachine Gun&lt;br /&gt;Caliber: 9x19 mm</Original>
+        <English>Submachine Gun&lt;br /&gt;Caliber: 9x19 mm</English>
+        <German>Maschinenpistole&lt;br /&gt;Kaliber: 9 x 19 mm</German>
+        <Spanish>Subfusil&lt;br /&gt;Calibre: 9x19 mm</Spanish>
+        <French>Pistolet-mitrailleur&lt;br /&gt;Calibre : 9x19 mm</French>
+        <Polish>Pistolet maszynowy&lt;br /&gt;Kaliber: 9 x 19 mm</Polish>
+        <Portuguese>Submetralhadora&lt;br /&gt;Calibre: 9x19 mm</Portuguese>
+        <Russian>Пистолет-пулемет&lt;br /&gt;Калибр: 9x19 мм</Russian>
+        <Chinesesimp>冲锋枪&lt;br /&gt;口径：9x19 毫米</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Library">
+        <Original>The Diplomat 9mm Submachine Gun features a folding magazine well, pistol grip, and stock. Its design made it the weapon of choice among certain CSAT countries for personal security details and other tasks where a compact and easy-to-conceal weapon is needed.</Original>
+        <English>The Diplomat 9mm Submachine Gun features a folding magazine well, pistol grip, and stock. Its design made it the weapon of choice among certain CSAT countries for personal security details and other tasks where a compact and easy-to-conceal weapon is needed.</English>
+        <German>Die 9mm-Diplomat-Maschinenpistole ist mit einem klappbaren Magazinschacht, einem Pistolengriff und einer Schulterstütze ausgestattet. Dank ihrer Konstruktion galt sie in bestimmten CSAT-Staaten als bevorzugte Waffe für persönliche Sicherheitsaufträge und andere Einsätze, in denen eine leicht zu verbergende Waffe benötigt wurde.</German>
+        <Spanish>El subfusil Diplomat de 9 mm cuenta con culata, tolva de cargador plegable y empuñadura de tipo pistola. Su diseño hace que sea el arma de preferencia en determinados países del CSAT para misiones de seguridad personal y otras tareas que requieran un arma compacta y fácil de ocultar.</Spanish>
+        <French>Le pistolet-mitrailleur Diplomat 9 mm comprend un puits de chargeur, une poignée pistolet et une crosse pliable. Sa conception en fait l&apos;arme de choix pour les forces de sécurité de certains pays du CSAT et pour toute situation exigeant une discrétion maximale.</French>
+        <Polish>Pistolet maszynowy Diplomat 9 mm wyposażono w składany lejek do magazynka, chwyt pistoletowy i kolbę. Konstrukcja uczyniła broń preferowanym narzędziem wśród m.in. personelu ochrony w niektórych krajach CSAT ze względu na kompaktowość i możliwość łatwego ukrycia broni.</Polish>
+        <Portuguese>A submetralhadora Diplomat 9 mm possui coronha, encaixe de carregador dobrável e empunhadura tipo pistola. Em alguns países da CSAT, seu projeto fez com que ela se tornasse a arma preferida para segurança pessoal e outras tarefas que exigem algo compacto e fácil de ocultar.</Portuguese>
+        <Russian>Пистолет-пулемет «Дипломат» калибра 9 мм оснащен складным приемником магазина, пистолетной рукояткой и прикладом. Благодаря своей конструкции он часто используется в странах CSAT для личной охраны и других задач, где важна компактность и скрытность.</Russian>
+        <Chinesesimp>Diplomat 9 毫米冲锋枪具有折叠式弹匣槽、手枪握把以及枪托。它的紧凑型设计使其成为部分 CSAT 国家贴身警卫的首选装备；在需要紧凑和易于掩藏的武器的任务场合，该型武器也备受青睐。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Coy_DN">
+        <Original>Diplomat 9 mm (Coyote)</Original>
+        <English>Diplomat 9 mm (Coyote)</English>
+        <German>Diplomat 9 mm (Coyote)</German>
+        <Spanish>Diplomat 9 mm (coyote)</Spanish>
+        <French>Diplomat 9 mm (coyote)</French>
+        <Polish>Diplomat 9 mm (coyote)</Polish>
+        <Portuguese>Diplomat 9 mm (Coiote)</Portuguese>
+        <Russian>«Дипломат», 9 мм (койот)</Russian>
+        <Chinesesimp>Diplomat 9 毫米（狼棕色）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Hex_DN">
+        <Original>Diplomat 9 mm (Hex)</Original>
+        <English>Diplomat 9 mm (Hex)</English>
+        <German>Diplomat 9 mm (Hextarn)</German>
+        <Spanish>Diplomat 9 mm (hex)</Spanish>
+        <French>Diplomat 9 mm (hex)</French>
+        <Polish>Diplomat 9 mm (hex)</Polish>
+        <Portuguese>Diplomat 9 mm (Hex)</Portuguese>
+        <Russian>«Дипломат», 9 мм (гекс)</Russian>
+        <Chinesesimp>Diplomat 9 毫米（六角形）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Ghex_DN">
+        <Original>Diplomat 9 mm (Green Hex)</Original>
+        <English>Diplomat 9 mm (Green Hex)</English>
+        <German>Diplomat 9 mm (Hextarn, grün)</German>
+        <Spanish>Diplomat 9 mm (hex, verde)</Spanish>
+        <French>Diplomat 9 mm (hex vert)</French>
+        <Polish>Diplomat 9 mm (zielony hex)</Polish>
+        <Portuguese>Diplomat 9 mm (Verde hex)</Portuguese>
+        <Russian>«Дипломат», 9 мм (зеленый гекс)</Russian>
+        <Chinesesimp>Diplomat 9 毫米（绿色六角形）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Diplomat_25Rnd_9x19_Mag">
+        <Original>9 mm 25Rnd Mag</Original>
+        <English>9 mm 25Rnd Mag</English>
+        <German>25-Schuss-9mm-Magazin</German>
+        <Spanish>Cargador de 25 p. de 9 mm</Spanish>
+        <French>Chargeur 25 balles 9 mm</French>
+        <Polish>25-nab. mag. 9 mm</Polish>
+        <Portuguese>Carregador c/ 25 mun. 9 mm</Portuguese>
+        <Russian>Магазин, 25 патр. 9 мм</Russian>
+        <Chinesesimp>9 毫米 25 发弹匣</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Diplomat_25Rnd_9x19_Coy_Mag">
+        <Original>9 mm 25Rnd Mag (Coyote)</Original>
+        <English>9 mm 25Rnd Mag (Coyote)</English>
+        <German>25-Schuss-9mm-Magazin (Coyote)</German>
+        <Spanish>Cargador de 25 p. de 9 mm (coyote)</Spanish>
+        <French>Chargeur 25 balles 9 mm (coyote)</French>
+        <Polish>25-nab. mag. 9 mm (coyote)</Polish>
+        <Portuguese>Carregador c/ 25 mun. 9 mm (Coiote)</Portuguese>
+        <Russian>Магазин, 25 патр. 9 мм (койот)</Russian>
+        <Chinesesimp>9 毫米 25 发弹匣（狼棕色）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Diplomat_25Rnd_9x19_Mag_DS">
+        <Original>Caliber: 9x19 mm&lt;br /&gt;Rounds: 25&lt;br /&gt;Used in: Diplomat</Original>
+        <English>Caliber: 9x19 mm&lt;br /&gt;Rounds: 25&lt;br /&gt;Used in: Diplomat</English>
+        <German>Kaliber: 9x19 mm&lt;br /&gt;Schuss: 25&lt;br /&gt;Für: Diplomat</German>
+        <Spanish>Calibre: 9x19 mm&lt;br /&gt;Proyectiles: 25&lt;br /&gt;Se usa con: Diplomat</Spanish>
+        <French>Calibre : 9x19 mm&lt;br /&gt;Munitions : 25&lt;br /&gt;Application : Diplomat</French>
+        <Polish>Kaliber: 9 x 19 mm&lt;br /&gt;Magazynek: 25&lt;br /&gt;Kompatybilność: Diplomat</Polish>
+        <Portuguese>Calibre: 9x19 mm&lt;br /&gt;Munição: 25&lt;br /&gt;Usada em: Diplomat</Portuguese>
+        <Russian>Калибр: 9x19 мм&lt;br /&gt;Кол-во: 25&lt;br /&gt;Применение: «Дипломат»</Russian>
+        <Chinesesimp>口径：9x19 毫米&lt;br /&gt;容量：25&lt;br /&gt;用于：Diplomat</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_Gyra" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_Gyra_DN">
+        <Original>Gyra</Original>
+        <English>Gyra</English>
+        <German>Gyra</German>
+        <Spanish>Gyra</Spanish>
+        <French>Gyra</French>
+        <Polish>Gyra</Polish>
+        <Portuguese>Gyra</Portuguese>
+        <Russian>Gyra</Russian>
+        <Chinesesimp>Gyra</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Library">
+        <Original>The Gyra is a light Armored Fighting Vehicle capable of carrying a section of 4 troops in addition to 2 crewmen. Developed for airborne and internal security forces, it features a quiet and powerful electric engine, in addition to several turret options.</Original>
+        <English>The Gyra is a light Armored Fighting Vehicle capable of carrying a section of 4 troops in addition to 2 crewmen. Developed for airborne and internal security forces, it features a quiet and powerful electric engine, in addition to several turret options.</English>
+        <German>Das Gyra ist ein gepanzertes Gefechtsfahrzeug, das bis zu 4 Soldaten und 2 Besatzungsmitglieder transportieren kann. Es wurde für Luftlandetruppen und interne Sicherheitskräfte entworfen und ist neben einem leistungsstarken und leisen Elektromotor mit diversen Turmvarianten verfügbar.</German>
+        <Spanish>El Gyra es un vehículo blindado ligero de combate que puede transportar 4 soldados además de 2 tripulantes. Se desarrolló para fuerzas de seguridad internas y aerotransportadas y cuenta con un motor eléctrico potente y silencioso, además de varias opciones de torreta.</Spanish>
+        <French>Le Gyra est un véhicule de combat blindé léger pouvant transporter une section de quatre hommes et deux membres d&apos;équipage. Conçu pour les forces aériennes et de sécurité intérieure, il est alimenté par un moteur électrique léger et peut accueillir diverses tourelles.</French>
+        <Polish>Gyra to lekki opancerzony pojazd bojowy, mogący przewozić 4 żołnierzy oraz dwuosobową załogę. Powstały z myślą o siłach powietrznych i siłach bezpieczeństwa wewnętrznego, wyposażony jest w cichy i wydajny silnik elektryczny, a także szereg wariantów wieżyczek.</Polish>
+        <Portuguese>O Gyra é um veículo de combate blindado leve, capaz de transportar uma seção com 4 soldados e 2 tripulantes. Desenvolvido para forças aerotransportadas e de segurança interna, ele dispõe de um motor elétrico potente e silencioso, além de várias opções de torreta.</Portuguese>
+        <Russian>Gyra — легкая боевая бронированная машина, рассчитанная на экипаж из двух человек и отделение из четырех бойцов. Разработана для воздушно-десантных и внутренних войск, оснащена тихим, но мощным электродвигателем и поддерживает несколько вариантов башенных установок.</Russian>
+        <Chinesesimp>Gyra 是一辆轻型装甲战斗载具，除了 2 名载具组员，它还能够搭载 4 名士兵。该型载具专为空降部队和国内安全部队开发，配备了低噪音且强劲的电动发动机，并提供多种炮塔选项。</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Armed_DN">
+        <Original>Gyra IFV</Original>
+        <English>Gyra IFV</English>
+        <German>Gyra IFV</German>
+        <Spanish>Gyra (VCI)</Spanish>
+        <French>Gyra VCI</French>
+        <Polish>BWP Gyra</Polish>
+        <Portuguese>VCI Gyra</Portuguese>
+        <Russian>БМП Gyra</Russian>
+        <Chinesesimp>Gyra 步兵战车</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Antiair_DN">
+        <Original>Gyra AA</Original>
+        <English>Gyra AA</English>
+        <German>Gyra AA</German>
+        <Spanish>Gyra (antiaéreo)</Spanish>
+        <French>Gyra AA</French>
+        <Polish>Plot Gyra</Polish>
+        <Portuguese>AA Gyra</Portuguese>
+        <Russian>Зенитное орудие Gyra</Russian>
+        <Chinesesimp>Gyra 防空型</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Mortar_DN">
+        <Original>Gyra Mortar</Original>
+        <English>Gyra Mortar</English>
+        <German>Gyra Mörser</German>
+        <Spanish>Gyra (mortero)</Spanish>
+        <French>Gyra Mortier</French>
+        <Polish>Moździerz Gyra</Polish>
+        <Portuguese>Morteiro Gyra</Portuguese>
+        <Russian>Миномет Gyra</Russian>
+        <Chinesesimp>Gyra 迫击炮型</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_HMG_DN">
+        <Original>Gyra HMG</Original>
+        <English>Gyra HMG</English>
+        <German>Gyra HMG</German>
+        <Spanish>Gyra (ametralladora pesada)</Spanish>
+        <French>Gyra HMG</French>
+        <Polish>CKM Gyra</Polish>
+        <Portuguese>MP Gyra</Portuguese>
+        <Russian>Тяж. пулемет Gyra</Russian>
+        <Chinesesimp>Gyra 重机枪型</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_RaiseShield">
+        <Original>Raise Armored Glass</Original>
+        <English>Raise Armored Glass</English>
+        <German>Panzerglas anheben</German>
+        <Spanish>Levantar vidrio blindado</Spanish>
+        <French>Lever vitre blindée</French>
+        <Polish>Podnieś szkło pancerne</Polish>
+        <Portuguese>Levantar vidro blindado</Portuguese>
+        <Russian>Поднять бронированное стекло</Russian>
+        <Chinesesimp>升起装甲玻璃</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_LowerShield">
+        <Original>Lower Armored Glass</Original>
+        <English>Lower Armored Glass</English>
+        <German>Panzerglas absenken</German>
+        <Spanish>Bajar vidrio blindado</Spanish>
+        <French>Abaisser vitre blindée</French>
+        <Polish>Obniż szkło pancerne</Polish>
+        <Portuguese>Baixar vidro blindado</Portuguese>
+        <Russian>Опустить бронированное стекло</Russian>
+        <Chinesesimp>降下装甲玻璃</Chinesesimp>
+    </Key>
+</Container>
+<Container name="EF_LCC" dubbingLanguage="" situation="">
+    <Key ID="STR_EF_LCC_Static_AAF">
+        <Original>LCC-1 (Static, AAF)</Original>
+        <English>LCC-1 (Static, AAF)</English>
+        <German>LCC-1 (Statisch, AAF)</German>
+        <Spanish>LCC-1 (estático, AAF)</Spanish>
+        <French>LCC-1 (statique, AAF)</French>
+        <Polish>LCC-1 (stacjonarny, AAF)</Polish>
+        <Portuguese>LCC-1 (Estático, AAF)</Portuguese>
+        <Russian>LCC-1 (статичный, AAF)</Russian>
+        <Chinesesimp>LCC-1（固定式，AAF）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_LCC_Static_Grey">
+        <Original>LCC-1 (Static, Grey)</Original>
+        <English>LCC-1 (Static, Grey)</English>
+        <German>LCC-1 (Statisch, Grau)</German>
+        <Spanish>LCC-1 (estático, gris)</Spanish>
+        <French>LCC-1 (statique, gris)</French>
+        <Polish>LCC-1 (stacjonarny, szary)</Polish>
+        <Portuguese>LCC-1 (Estático, cinza)</Portuguese>
+        <Russian>LCC-1 (статичный, серый)</Russian>
+        <Chinesesimp>LCC-1（固定式，灰色）</Chinesesimp>
+    </Key>
+</Container>
+</Package>
+</Project>
